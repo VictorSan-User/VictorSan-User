@@ -11,5 +11,7 @@
 </div>
 
   <div>
-      <i class="devicon-c-plain colored"></i>
+      
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
   </div>
