@@ -11,6 +11,14 @@
 </div>
     
 ### 🤖 Linguagens e Tecnologias
+<img 
+    align = "letf"
+    alt = "C"
+    title = "C"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+    />
   <img 
     align = "letf"
     alt = "HTML"
@@ -52,8 +60,3 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
     />
 
-          
-
-          
-    
-          
