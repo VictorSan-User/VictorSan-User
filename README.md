@@ -37,8 +37,16 @@
     />
     <img 
     align = "letf"
-    alt = "PHP"
-    title = "PHP"
+    alt = "JS"
+    title = "JS"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
+    />
+    <img 
+    align = "letf"
+    alt = "Laravel"
+    title = "Laravel"
     width = "30px"
     style = "padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
