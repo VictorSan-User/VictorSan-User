@@ -2,7 +2,6 @@
 
 - 🔭 Frequentemente trabalhando com Laravel
 - 🌱 Estudando PHP e o Framework Laravel
-- 🤔 Procurando saber se ainda existe alguém que programe em Assembly
 
 <div>
   <a href="https://beacons.ai/VictorSan-User">
