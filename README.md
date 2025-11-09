@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Victor Henrique Nacife 👋
 
 - 🔭 Frequentemente trabalhando com Laravel
-- 🌱 Estudando PHP e o Framework Laravel
+- 🌱 Estudando PHP e Laravel
 
 <div>
   <a href="https://beacons.ai/VictorSan-User">
